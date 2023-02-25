@@ -1,2 +1,2 @@
 # cleverse.github.io
-Metaverse based system for everyone
+Developing a web 3 based fashion tech product
